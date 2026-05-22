@@ -1,0 +1,4714 @@
+{
+  "id": "dothan-wiregrass-place-graph-demo",
+  "title": "AVRAI Dothan / Wiregrass Place Graph",
+  "placeName": "Dothan, Alabama",
+  "generatedAt": "2026-05-22T19:20:00.000Z",
+  "center": {
+    "latitude": 31.22323,
+    "longitude": -85.39049
+  },
+  "bounds": {
+    "north": 31.32,
+    "south": 31.15,
+    "east": -85.32,
+    "west": -85.52
+  },
+  "nodes": [
+    {
+      "id": "place-dothan-library-main",
+      "name": "Dothan Houston County Library",
+      "category": "library",
+      "latitude": 31.22865,
+      "longitude": -85.39463,
+      "description": "Downtown public library anchor with digital access and civic meeting potential.",
+      "tags": [
+        "public",
+        "digital access",
+        "downtown"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-westgate-library",
+      "name": "Dothan Houston County Public Library - Westgate Branch",
+      "category": "library",
+      "latitude": 31.23989,
+      "longitude": -85.43906,
+      "description": "Westside library branch near schools, retail corridors, and medical activity.",
+      "tags": [
+        "public",
+        "westside",
+        "youth"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-carver-school",
+      "name": "Carver School for Math, Science and Technology",
+      "category": "school",
+      "latitude": 31.19756,
+      "longitude": -85.39139,
+      "description": "Southside school asset for STEM exposure and after-school pathway design.",
+      "tags": [
+        "education",
+        "stem",
+        "southside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-girard-primary",
+      "name": "Girard Primary School",
+      "category": "school",
+      "latitude": 31.24016,
+      "longitude": -85.42078,
+      "description": "Northwest elementary education anchor near the Westgate corridor.",
+      "tags": [
+        "education",
+        "families",
+        "northwest"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-girard-intermediate",
+      "name": "Girard Intermediate School",
+      "category": "school",
+      "latitude": 31.24283,
+      "longitude": -85.42073,
+      "description": "Intermediate school positioned near recreation and library assets.",
+      "tags": [
+        "education",
+        "families",
+        "northwest"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-grandview-elementary",
+      "name": "Grandview Elementary School",
+      "category": "school",
+      "latitude": 31.21155,
+      "longitude": -85.37632,
+      "description": "East-central school node near healthcare and civic corridors.",
+      "tags": [
+        "education",
+        "eastside",
+        "families"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-head-start",
+      "name": "Head Start Center",
+      "category": "school",
+      "latitude": 31.23122,
+      "longitude": -85.40525,
+      "description": "Early childhood support node close to downtown and neighborhood churches.",
+      "tags": [
+        "education",
+        "early childhood",
+        "families"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-jerry-lee-faine",
+      "name": "Jerry Lee Faine Elementary School",
+      "category": "school",
+      "latitude": 31.23446,
+      "longitude": -85.37168,
+      "description": "East Dothan school with proximity to career and medical pathways.",
+      "tags": [
+        "education",
+        "eastside",
+        "families"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-dothan-high",
+      "name": "Dothan High School",
+      "category": "school",
+      "latitude": 31.26855,
+      "longitude": -85.38098,
+      "description": "Large high school anchor for workforce, college, and civic pathway matching.",
+      "tags": [
+        "education",
+        "workforce",
+        "northside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-dothan-tech",
+      "name": "Dothan Technology Center",
+      "category": "school",
+      "latitude": 31.26818,
+      "longitude": -85.38255,
+      "description": "Career and technical education node for employer-aligned pathway experiments.",
+      "tags": [
+        "education",
+        "career technical",
+        "workforce"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-troy-dothan",
+      "name": "Troy University, Dothan Campus",
+      "category": "university",
+      "latitude": 31.28421,
+      "longitude": -85.47007,
+      "description": "Regional higher education anchor on Dothan's northwest edge.",
+      "tags": [
+        "higher education",
+        "adult learners",
+        "workforce"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-wallace-campus",
+      "name": "Wallace Community College - Wallace Campus",
+      "category": "college",
+      "latitude": 31.3173,
+      "longitude": -85.46455,
+      "description": "Regional community college asset for healthcare, trades, and upskilling.",
+      "tags": [
+        "higher education",
+        "workforce",
+        "wiregrass"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-acom",
+      "name": "Alabama College of Osteopathic Medicine",
+      "category": "university",
+      "latitude": 31.20618,
+      "longitude": -85.34091,
+      "description": "Medical education anchor adjacent to the eastside health campus.",
+      "tags": [
+        "healthcare",
+        "higher education",
+        "eastside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-southeast-health",
+      "name": "Southeast Health",
+      "category": "hospital",
+      "latitude": 31.21605,
+      "longitude": -85.36354,
+      "description": "Major regional health anchor and likely buyer-facing partner for social need routing.",
+      "tags": [
+        "healthcare",
+        "regional",
+        "eastside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-flowers-hospital",
+      "name": "Flowers Hospital",
+      "category": "hospital",
+      "latitude": 31.2379,
+      "longitude": -85.45624,
+      "description": "Westside hospital anchor near retail, family services, and commuter corridors.",
+      "tags": [
+        "healthcare",
+        "westside",
+        "regional"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-laurel-oaks",
+      "name": "Laurel Oaks Behavioral Health Center",
+      "category": "hospital",
+      "latitude": 31.20386,
+      "longitude": -85.38426,
+      "description": "Behavioral health asset near schools and eastside clinical providers.",
+      "tags": [
+        "healthcare",
+        "behavioral health",
+        "youth"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-the-haven",
+      "name": "The Haven",
+      "category": "hospital",
+      "latitude": 31.24622,
+      "longitude": -85.46126,
+      "description": "Behavioral health and support-service node west of the city core.",
+      "tags": [
+        "healthcare",
+        "behavioral health",
+        "westside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-afc-dothan",
+      "name": "American Family Care Dothan",
+      "category": "clinic",
+      "latitude": 31.26415,
+      "longitude": -85.43954,
+      "description": "Urgent care node on a high-mobility northside corridor.",
+      "tags": [
+        "healthcare",
+        "urgent care",
+        "northside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-southeast-pain",
+      "name": "Southeast Health Pain Management",
+      "category": "clinic",
+      "latitude": 31.21606,
+      "longitude": -85.36725,
+      "description": "Specialty care node inside the eastside medical cluster.",
+      "tags": [
+        "healthcare",
+        "specialty care",
+        "eastside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-southern-bone",
+      "name": "Southern Bone and Joint",
+      "category": "clinic",
+      "latitude": 31.23864,
+      "longitude": -85.4541,
+      "description": "Specialty clinic near Flowers Hospital and westside retail anchors.",
+      "tags": [
+        "healthcare",
+        "specialty care",
+        "westside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-fairview-park",
+      "name": "Fairview Park",
+      "category": "park",
+      "latitude": 31.24295,
+      "longitude": -85.4166,
+      "description": "Public park asset positioned between school and worship networks.",
+      "tags": [
+        "public space",
+        "youth",
+        "recreation"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-doug-tew",
+      "name": "Doug Tew Recreation Center",
+      "category": "sports_centre",
+      "latitude": 31.2069,
+      "longitude": -85.39717,
+      "description": "Recreation asset with youth and family programming potential.",
+      "tags": [
+        "public space",
+        "youth",
+        "southside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-winn-dixie",
+      "name": "Winn-Dixie",
+      "category": "supermarket",
+      "latitude": 31.25947,
+      "longitude": -85.43219,
+      "description": "Food retail anchor near northwest residential and school nodes.",
+      "tags": [
+        "food",
+        "retail",
+        "northwest"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-publix-west",
+      "name": "Publix - West Main Corridor",
+      "category": "supermarket",
+      "latitude": 31.24841,
+      "longitude": -85.42882,
+      "description": "Westside grocery anchor near education, clinic, and household support nodes.",
+      "tags": [
+        "food",
+        "retail",
+        "westside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-publix-south",
+      "name": "Publix - Southside Corridor",
+      "category": "supermarket",
+      "latitude": 31.19742,
+      "longitude": -85.37451,
+      "description": "Southside grocery anchor near schools and east-west commuter flow.",
+      "tags": [
+        "food",
+        "retail",
+        "southside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-tienda-latina",
+      "name": "Tienda Latina Guatemex",
+      "category": "supermarket",
+      "latitude": 31.20472,
+      "longitude": -85.39556,
+      "description": "Culturally specific food and retail node near recreation and school assets.",
+      "tags": [
+        "food",
+        "retail",
+        "language access"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-tj-maxx",
+      "name": "TJ Maxx",
+      "category": "department_store",
+      "latitude": 31.24622,
+      "longitude": -85.42473,
+      "description": "Retail draw near Westgate and northwest family corridors.",
+      "tags": [
+        "retail",
+        "jobs",
+        "westside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-top-thai",
+      "name": "Top Thai",
+      "category": "restaurant",
+      "latitude": 31.23329,
+      "longitude": -85.45449,
+      "description": "Local restaurant node in the westside commercial corridor.",
+      "tags": [
+        "food",
+        "small business",
+        "westside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-blue-plate",
+      "name": "The Blue Plate",
+      "category": "restaurant",
+      "latitude": 31.1898,
+      "longitude": -85.38925,
+      "description": "Southside restaurant node that can indicate local foot traffic patterns.",
+      "tags": [
+        "food",
+        "small business",
+        "southside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-captain-hooks",
+      "name": "Captain Hooks",
+      "category": "restaurant",
+      "latitude": 31.22938,
+      "longitude": -85.39385,
+      "description": "Downtown-adjacent restaurant node near civic and library assets.",
+      "tags": [
+        "food",
+        "small business",
+        "downtown"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-ups-west",
+      "name": "The UPS Store - West Main",
+      "category": "post_office",
+      "latitude": 31.23959,
+      "longitude": -85.46491,
+      "description": "Small business service node on the westside medical and retail corridor.",
+      "tags": [
+        "business services",
+        "westside",
+        "logistics"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-ups-midtown",
+      "name": "The UPS Store - Midtown",
+      "category": "post_office",
+      "latitude": 31.21935,
+      "longitude": -85.43114,
+      "description": "Business service node between neighborhood and retail activity.",
+      "tags": [
+        "business services",
+        "midtown",
+        "logistics"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-kinsey-fire",
+      "name": "Kinsey Fire Department",
+      "category": "fire_station",
+      "latitude": 31.2911,
+      "longitude": -85.33987,
+      "description": "Public safety node on the northeast edge of the Wiregrass catchment.",
+      "tags": [
+        "public safety",
+        "regional",
+        "northeast"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-midland-police",
+      "name": "Midland City Police Department",
+      "category": "police",
+      "latitude": 31.31825,
+      "longitude": -85.49455,
+      "description": "Public safety node in the northwest regional edge of the metro graph.",
+      "tags": [
+        "public safety",
+        "wiregrass",
+        "northwest"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-midland-library",
+      "name": "Midland City - Mary Berry Brown Memorial Library",
+      "category": "library",
+      "latitude": 31.31775,
+      "longitude": -85.49493,
+      "description": "Regional library node for the Wiregrass edge and rural access story.",
+      "tags": [
+        "public",
+        "digital access",
+        "wiregrass"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-central-baptist",
+      "name": "Central Baptist Church",
+      "category": "place_of_worship",
+      "latitude": 31.21795,
+      "longitude": -85.40077,
+      "description": "Trusted civic conduit near schools, downtown, and family support nodes.",
+      "tags": [
+        "trusted network",
+        "families",
+        "downtown"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-temple-emanuel",
+      "name": "Temple Emanu-El",
+      "category": "place_of_worship",
+      "latitude": 31.22801,
+      "longitude": -85.40878,
+      "description": "Faith community node inside the downtown relationship layer.",
+      "tags": [
+        "trusted network",
+        "downtown",
+        "community"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-first-christian",
+      "name": "First Christian Church",
+      "category": "place_of_worship",
+      "latitude": 31.24506,
+      "longitude": -85.41783,
+      "description": "Faith community node adjacent to parks and northwest education assets.",
+      "tags": [
+        "trusted network",
+        "northwest",
+        "families"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-wiregrass-church",
+      "name": "Wiregrass Church",
+      "category": "place_of_worship",
+      "latitude": 31.22719,
+      "longitude": -85.40322,
+      "description": "Faith community node near the library, Head Start, and downtown services.",
+      "tags": [
+        "trusted network",
+        "downtown",
+        "families"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "place-zion-ame",
+      "name": "Zion African Methodist Episcopal Church",
+      "category": "place_of_worship",
+      "latitude": 31.21934,
+      "longitude": -85.39745,
+      "description": "Historic faith node near school, recreation, and family support corridors.",
+      "tags": [
+        "trusted network",
+        "history",
+        "southside"
+      ],
+      "kind": "place",
+      "source": "openstreetmap",
+      "sourceLabel": "OpenStreetMap Overpass seed snapshot for Dothan area, fetched May 22, 2026",
+      "confidence": 0.78
+    },
+    {
+      "id": "area-dothan-city",
+      "kind": "census_area",
+      "name": "Dothan City",
+      "category": "city",
+      "latitude": 31.22323,
+      "longitude": -85.39049,
+      "description": "Citywide civic and service area used as the prototype's primary place boundary.",
+      "source": "census_reporter",
+      "sourceLabel": "Census Reporter latest ACS profile for Dothan, AL",
+      "confidence": 0.86,
+      "tags": [
+        "census",
+        "city",
+        "public data"
+      ],
+      "metrics": {
+        "population": 71514,
+        "medianHouseholdIncome": 55792,
+        "povertyRate": 19.3,
+        "noVehicleHouseholds": 8,
+        "commute60Plus": 4.5
+      }
+    },
+    {
+      "id": "area-houston-county",
+      "kind": "census_area",
+      "name": "Houston County",
+      "category": "county",
+      "latitude": 31.1518,
+      "longitude": -85.2999,
+      "description": "County context for Dothan's wider service and workforce catchment.",
+      "source": "census_reporter",
+      "sourceLabel": "Census Reporter latest ACS profile for Houston County, AL",
+      "confidence": 0.84,
+      "tags": [
+        "census",
+        "county",
+        "public data"
+      ],
+      "metrics": {
+        "population": 108140,
+        "medianHouseholdIncome": 58626,
+        "povertyRate": 17.5,
+        "noVehicleHouseholds": 6.8,
+        "commute60Plus": 4.8
+      }
+    },
+    {
+      "id": "area-dothan-metro",
+      "kind": "census_area",
+      "name": "Dothan Metro Area",
+      "category": "metro",
+      "latitude": 31.285,
+      "longitude": -85.47,
+      "description": "Regional Wiregrass labor, health, and education market around Dothan.",
+      "source": "census_reporter",
+      "sourceLabel": "Census Reporter latest ACS profile for the Dothan, AL Metro Area",
+      "confidence": 0.82,
+      "tags": [
+        "census",
+        "metro",
+        "wiregrass"
+      ],
+      "metrics": {
+        "population": 152674,
+        "medianHouseholdIncome": 57791,
+        "povertyRate": 17.9,
+        "noVehicleHouseholds": 6.7,
+        "commute60Plus": 5.4
+      }
+    },
+    {
+      "id": "area-downtown-core",
+      "kind": "census_area",
+      "name": "Downtown Core Overlay",
+      "category": "demo_overlay",
+      "latitude": 31.228,
+      "longitude": -85.396,
+      "description": "Synthetic neighborhood overlay for civic, library, restaurant, and service coordination.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic overlay calibrated from ACS aggregate context",
+      "confidence": 0.58,
+      "tags": [
+        "demo overlay",
+        "downtown",
+        "civic"
+      ],
+      "metrics": {
+        "populationIndex": 64,
+        "accessFriction": 71,
+        "trustedAnchors": 8,
+        "footTrafficPotential": 74
+      }
+    },
+    {
+      "id": "area-westgate-corridor",
+      "kind": "census_area",
+      "name": "Westgate Health + Retail Corridor",
+      "category": "demo_overlay",
+      "latitude": 31.241,
+      "longitude": -85.444,
+      "description": "Synthetic overlay for westside health, retail, school, and commuter linkages.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic overlay calibrated from ACS aggregate context",
+      "confidence": 0.57,
+      "tags": [
+        "demo overlay",
+        "westside",
+        "healthcare"
+      ],
+      "metrics": {
+        "populationIndex": 72,
+        "accessFriction": 59,
+        "trustedAnchors": 5,
+        "footTrafficPotential": 81
+      }
+    },
+    {
+      "id": "area-east-medical-campus",
+      "kind": "census_area",
+      "name": "East Medical + Education Campus",
+      "category": "demo_overlay",
+      "latitude": 31.211,
+      "longitude": -85.355,
+      "description": "Synthetic overlay for Southeast Health, ACOM, nearby schools, and clinical navigation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic overlay calibrated from ACS aggregate context",
+      "confidence": 0.6,
+      "tags": [
+        "demo overlay",
+        "healthcare",
+        "education"
+      ],
+      "metrics": {
+        "populationIndex": 69,
+        "accessFriction": 66,
+        "trustedAnchors": 4,
+        "footTrafficPotential": 68
+      }
+    },
+    {
+      "id": "area-southside-family",
+      "kind": "census_area",
+      "name": "Southside Family Support Overlay",
+      "category": "demo_overlay",
+      "latitude": 31.199,
+      "longitude": -85.392,
+      "description": "Synthetic overlay for schools, recreation, family services, and food access friction.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic overlay calibrated from ACS aggregate context",
+      "confidence": 0.56,
+      "tags": [
+        "demo overlay",
+        "families",
+        "southside"
+      ],
+      "metrics": {
+        "populationIndex": 77,
+        "accessFriction": 74,
+        "trustedAnchors": 7,
+        "footTrafficPotential": 61
+      }
+    },
+    {
+      "id": "area-wiregrass-edge",
+      "kind": "census_area",
+      "name": "Wiregrass Rural Edge",
+      "category": "demo_overlay",
+      "latitude": 31.314,
+      "longitude": -85.49,
+      "description": "Synthetic overlay for regional referrals, rural access, and Dothan-serving institutions.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic overlay calibrated from ACS aggregate context",
+      "confidence": 0.54,
+      "tags": [
+        "demo overlay",
+        "rural access",
+        "wiregrass"
+      ],
+      "metrics": {
+        "populationIndex": 48,
+        "accessFriction": 83,
+        "trustedAnchors": 4,
+        "footTrafficPotential": 52
+      }
+    },
+    {
+      "id": "need-youth-after-school",
+      "kind": "need",
+      "name": "After-School Access",
+      "category": "community_need",
+      "description": "Youth need safe, reachable places after school hours.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "youth",
+        "families",
+        "after-school"
+      ]
+    },
+    {
+      "id": "need-career-pathways",
+      "kind": "need",
+      "name": "Career Pathway Matching",
+      "category": "community_need",
+      "description": "Students and adults need clear links between training, employers, and support.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "workforce",
+        "education",
+        "jobs"
+      ]
+    },
+    {
+      "id": "need-evening-transport",
+      "kind": "need",
+      "name": "Evening Transportation Friction",
+      "category": "community_need",
+      "description": "Programs and jobs become less reachable when rides and evening mobility are weak.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "transportation",
+        "access",
+        "workforce"
+      ]
+    },
+    {
+      "id": "need-health-navigation",
+      "kind": "need",
+      "name": "Health Navigation",
+      "category": "community_need",
+      "description": "Residents need trusted routing across clinical care, behavioral health, and social support.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "healthcare",
+        "navigation",
+        "trust"
+      ]
+    },
+    {
+      "id": "need-rural-referrals",
+      "kind": "need",
+      "name": "Rural Referral Loop",
+      "category": "community_need",
+      "description": "Dothan-serving institutions need cleaner referral loops with surrounding Wiregrass communities.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "wiregrass",
+        "referrals",
+        "regional"
+      ]
+    },
+    {
+      "id": "need-food-access",
+      "kind": "need",
+      "name": "Food Access",
+      "category": "community_need",
+      "description": "Food support and grocery assets need to be visible as part of the place relationship layer.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "food",
+        "families",
+        "access"
+      ]
+    },
+    {
+      "id": "need-childcare-family",
+      "kind": "need",
+      "name": "Family + Childcare Support",
+      "category": "community_need",
+      "description": "Parents need connected childcare, early learning, and flexible support options.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "families",
+        "childcare",
+        "early childhood"
+      ]
+    },
+    {
+      "id": "need-digital-access",
+      "kind": "need",
+      "name": "Digital Access",
+      "category": "community_need",
+      "description": "Residents need public access points for applications, telehealth, learning, and benefits.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "digital",
+        "library",
+        "access"
+      ]
+    },
+    {
+      "id": "need-small-business",
+      "kind": "need",
+      "name": "Small Business Foot Traffic",
+      "category": "community_need",
+      "description": "Local businesses need better visibility into civic events, anchors, and corridor demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "business",
+        "downtown",
+        "retail"
+      ]
+    },
+    {
+      "id": "need-trusted-data",
+      "kind": "need",
+      "name": "Trusted Data Sharing",
+      "category": "community_need",
+      "description": "Institutions need a values-aligned way to share signals without turning people into products.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "integrity",
+        "governance",
+        "trust"
+      ]
+    },
+    {
+      "id": "need-grant-coordination",
+      "kind": "need",
+      "name": "Grant Coordination",
+      "category": "community_need",
+      "description": "Funders and civic actors need evidence of where small interventions create leverage.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "funding",
+        "coordination",
+        "evidence"
+      ]
+    },
+    {
+      "id": "need-housing-stability",
+      "kind": "need",
+      "name": "Housing Stability Referrals",
+      "category": "community_need",
+      "description": "Support actors need earlier awareness of household instability before crisis routing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic need taxonomy for Dothan place graph demo",
+      "confidence": 0.62,
+      "tags": [
+        "housing",
+        "families",
+        "referrals"
+      ]
+    },
+    {
+      "id": "org-wiregrass-youth-pathways",
+      "kind": "organization",
+      "name": "Wiregrass Youth Pathways Coalition",
+      "category": "nonprofit",
+      "description": "Synthetic coalition focused on school-to-career exposure and after-school alignment.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "youth",
+        "workforce"
+      ]
+    },
+    {
+      "id": "org-dothan-civic-data-trust",
+      "kind": "organization",
+      "name": "Dothan Civic Data Trust",
+      "category": "civic",
+      "description": "Synthetic governance body for place graph data stewardship and access rules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "governance",
+        "integrity"
+      ]
+    },
+    {
+      "id": "org-wiregrass-health-link",
+      "kind": "organization",
+      "name": "Wiregrass Health Link",
+      "category": "health",
+      "description": "Synthetic care navigation partner connecting clinics, hospitals, churches, and family services.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "healthcare",
+        "navigation"
+      ]
+    },
+    {
+      "id": "org-main-street-dothan-lab",
+      "kind": "organization",
+      "name": "Main Street Dothan Lab",
+      "category": "business",
+      "description": "Synthetic business vitality partner for downtown and corridor foot-traffic experiments.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "small business",
+        "downtown"
+      ]
+    },
+    {
+      "id": "org-family-bridge",
+      "kind": "organization",
+      "name": "Family Bridge Resource Network",
+      "category": "nonprofit",
+      "description": "Synthetic family support organization focused on childcare, food access, and household referrals.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "families",
+        "food"
+      ]
+    },
+    {
+      "id": "org-wiregrass-skills-council",
+      "kind": "organization",
+      "name": "Wiregrass Skills Council",
+      "category": "workforce",
+      "description": "Synthetic employer-training council for health, logistics, retail, and skilled trades pathways.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "workforce",
+        "training"
+      ]
+    },
+    {
+      "id": "org-eastside-care-navigators",
+      "kind": "organization",
+      "name": "Eastside Care Navigators",
+      "category": "health",
+      "description": "Synthetic navigation team around the east medical and education campus.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "healthcare",
+        "eastside"
+      ]
+    },
+    {
+      "id": "org-westgate-family-roundtable",
+      "kind": "organization",
+      "name": "Westgate Family Roundtable",
+      "category": "community",
+      "description": "Synthetic neighborhood roundtable joining schools, library, retail anchors, and family services.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "families",
+        "westside"
+      ]
+    },
+    {
+      "id": "org-downtown-merchant-circle",
+      "kind": "organization",
+      "name": "Downtown Merchant Circle",
+      "category": "business",
+      "description": "Synthetic merchant network interested in events, referrals, and corridor vitality.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "small business",
+        "downtown"
+      ]
+    },
+    {
+      "id": "org-faith-anchor-network",
+      "kind": "organization",
+      "name": "Faith Anchor Network",
+      "category": "faith",
+      "description": "Synthetic interfaith network for trusted referrals and community listening.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "trusted network",
+        "referrals"
+      ]
+    },
+    {
+      "id": "org-wiregrass-funders-table",
+      "kind": "organization",
+      "name": "Wiregrass Funders Table",
+      "category": "funder",
+      "description": "Synthetic funding collaborative that wants evidence-backed interventions.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "funding",
+        "evidence"
+      ]
+    },
+    {
+      "id": "org-dothan-mobility-pilot",
+      "kind": "organization",
+      "name": "Dothan Mobility Pilot",
+      "category": "transportation",
+      "description": "Synthetic pilot team exploring evening access and ride coordination.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "transportation",
+        "access"
+      ]
+    },
+    {
+      "id": "org-library-digital-navigators",
+      "kind": "organization",
+      "name": "Library Digital Navigators",
+      "category": "public",
+      "description": "Synthetic service layer using libraries as public digital access points.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "digital access",
+        "library"
+      ]
+    },
+    {
+      "id": "org-wiregrass-rural-referral-hub",
+      "kind": "organization",
+      "name": "Wiregrass Rural Referral Hub",
+      "category": "regional",
+      "description": "Synthetic hub for surrounding communities that use Dothan services.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "wiregrass",
+        "referrals"
+      ]
+    },
+    {
+      "id": "org-local-employer-cohort",
+      "kind": "organization",
+      "name": "Local Employer Cohort",
+      "category": "employer",
+      "description": "Synthetic employer group looking for clearer entry-level and upskilling pathways.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "jobs",
+        "workforce"
+      ]
+    },
+    {
+      "id": "org-clinical-social-needs-team",
+      "kind": "organization",
+      "name": "Clinical Social Needs Team",
+      "category": "health",
+      "description": "Synthetic team that turns social need signals into governed referrals.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "healthcare",
+        "social needs"
+      ]
+    },
+    {
+      "id": "org-student-voice-panel",
+      "kind": "organization",
+      "name": "Student Voice Panel",
+      "category": "community",
+      "description": "Synthetic youth advisory panel for pathway and access design.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "youth",
+        "listening"
+      ]
+    },
+    {
+      "id": "org-small-business-service-desk",
+      "kind": "organization",
+      "name": "Small Business Service Desk",
+      "category": "business",
+      "description": "Synthetic support desk for local merchants, permitting, and resource matching.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "small business",
+        "services"
+      ]
+    },
+    {
+      "id": "org-housing-referral-collaborative",
+      "kind": "organization",
+      "name": "Housing Referral Collaborative",
+      "category": "nonprofit",
+      "description": "Synthetic referral collaborative for early housing stability signals.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "housing",
+        "referrals"
+      ]
+    },
+    {
+      "id": "org-after-hours-programming-pool",
+      "kind": "organization",
+      "name": "After-Hours Programming Pool",
+      "category": "community",
+      "description": "Synthetic pool of spaces and mentors for evening youth programming.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic organization generated for demo only",
+      "confidence": 0.55,
+      "tags": [
+        "after-school",
+        "spaces"
+      ]
+    },
+    {
+      "id": "signal-westgate-youth-cluster",
+      "kind": "signal",
+      "name": "Westgate youth assets are dense but loosely coordinated",
+      "category": "derived_signal",
+      "description": "Derived signal: schools, library, park, and retail anchors cluster together, but program timing and mobility are not connected.",
+      "source": "derived",
+      "sourceLabel": "Derived from seeded graph relationships",
+      "confidence": 0.77,
+      "tags": [
+        "westside",
+        "youth",
+        "coordination"
+      ],
+      "metrics": {
+        "signalScore": 77
+      }
+    },
+    {
+      "id": "signal-east-health-education-cluster",
+      "kind": "signal",
+      "name": "Eastside health and education assets form a regional campus",
+      "category": "derived_signal",
+      "description": "Derived signal: Southeast Health, ACOM, clinics, and nearby schools can support health pathway and navigation experiments.",
+      "source": "derived",
+      "sourceLabel": "Derived from seeded graph relationships",
+      "confidence": 0.82,
+      "tags": [
+        "healthcare",
+        "education",
+        "eastside"
+      ],
+      "metrics": {
+        "signalScore": 82
+      }
+    },
+    {
+      "id": "signal-downtown-trust-layer",
+      "kind": "signal",
+      "name": "Downtown trust anchors are close to small businesses",
+      "category": "derived_signal",
+      "description": "Derived signal: library, faith, and local business nodes are close enough for referral and event experiments.",
+      "source": "derived",
+      "sourceLabel": "Derived from seeded graph relationships",
+      "confidence": 0.73,
+      "tags": [
+        "downtown",
+        "trust",
+        "small business"
+      ],
+      "metrics": {
+        "signalScore": 73
+      }
+    },
+    {
+      "id": "signal-wiregrass-referral-edge",
+      "kind": "signal",
+      "name": "Regional edge nodes point back into Dothan services",
+      "category": "derived_signal",
+      "description": "Derived signal: rural and edge communities likely use Dothan health, training, and digital access resources.",
+      "source": "derived",
+      "sourceLabel": "Derived from seeded graph relationships",
+      "confidence": 0.69,
+      "tags": [
+        "wiregrass",
+        "regional",
+        "referrals"
+      ],
+      "metrics": {
+        "signalScore": 69
+      }
+    },
+    {
+      "id": "signal-family-access-southside",
+      "kind": "signal",
+      "name": "Southside family supports depend on timing and trust",
+      "category": "derived_signal",
+      "description": "Derived signal: schools, recreation, grocery, and faith assets are present, but access depends on hours, rides, and referral clarity.",
+      "source": "derived",
+      "sourceLabel": "Derived from seeded graph relationships",
+      "confidence": 0.75,
+      "tags": [
+        "families",
+        "southside",
+        "access"
+      ],
+      "metrics": {
+        "signalScore": 75
+      }
+    },
+    {
+      "id": "signal-data-integrity-buyer",
+      "kind": "signal",
+      "name": "The buyer is the actor who needs shared context without extractive data capture",
+      "category": "derived_signal",
+      "description": "Derived signal: civic, health, funder, and workforce buyers all need trusted data rules before sharing live place signals.",
+      "source": "derived",
+      "sourceLabel": "Derived from seeded graph relationships",
+      "confidence": 0.88,
+      "tags": [
+        "integrity",
+        "buyer",
+        "governance"
+      ],
+      "metrics": {
+        "signalScore": 88
+      }
+    },
+    {
+      "id": "persona-01",
+      "kind": "persona",
+      "name": "Avery A.",
+      "category": "parent working evening shifts",
+      "description": "Fictional demo persona: parent working evening shifts trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "parent",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-02",
+      "kind": "persona",
+      "name": "Jordan B.",
+      "category": "high school student exploring health careers",
+      "description": "Fictional demo persona: high school student exploring health careers trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "high",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-03",
+      "kind": "persona",
+      "name": "Morgan C.",
+      "category": "small business owner",
+      "description": "Fictional demo persona: small business owner trying to use public internet for applications, with friction around fragmented referral lists.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "small",
+        "fragmented referral lists"
+      ],
+      "properties": {
+        "goal": "use public internet for applications",
+        "friction": "fragmented referral lists",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-04",
+      "kind": "persona",
+      "name": "Taylor D.",
+      "category": "clinic care coordinator",
+      "description": "Fictional demo persona: clinic care coordinator trying to connect training to a real job, with friction around hard-to-see small business demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "clinic",
+        "hard-to-see small business demand"
+      ],
+      "properties": {
+        "goal": "connect training to a real job",
+        "friction": "hard-to-see small business demand",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-05",
+      "kind": "persona",
+      "name": "Riley E.",
+      "category": "faith community volunteer",
+      "description": "Fictional demo persona: faith community volunteer trying to document need for a grant, with friction around low trust in data sharing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "faith",
+        "low trust in data sharing"
+      ],
+      "properties": {
+        "goal": "document need for a grant",
+        "friction": "low trust in data sharing",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-06",
+      "kind": "persona",
+      "name": "Casey F.",
+      "category": "college student commuting from a rural edge",
+      "description": "Fictional demo persona: college student commuting from a rural edge trying to understand which partner to call first, with friction around unclear eligibility.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "college",
+        "unclear eligibility"
+      ],
+      "properties": {
+        "goal": "understand which partner to call first",
+        "friction": "unclear eligibility",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-07",
+      "kind": "persona",
+      "name": "Quinn G.",
+      "category": "teacher looking for mentors",
+      "description": "Fictional demo persona: teacher looking for mentors trying to route a family to trusted support, with friction around limited rural-to-city handoffs.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "teacher",
+        "limited rural-to-city handoffs"
+      ],
+      "properties": {
+        "goal": "route a family to trusted support",
+        "friction": "limited rural-to-city handoffs",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-08",
+      "kind": "persona",
+      "name": "Parker H.",
+      "category": "city staffer handling grant evidence",
+      "description": "Fictional demo persona: city staffer handling grant evidence trying to coordinate volunteers with nearby services, with friction around program hours that do not match work schedules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "city",
+        "program hours that do not match work schedules"
+      ],
+      "properties": {
+        "goal": "coordinate volunteers with nearby services",
+        "friction": "program hours that do not match work schedules",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-09",
+      "kind": "persona",
+      "name": "Harper I.",
+      "category": "restaurant manager hiring entry-level workers",
+      "description": "Fictional demo persona: restaurant manager hiring entry-level workers trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "restaurant",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-10",
+      "kind": "persona",
+      "name": "Reese J.",
+      "category": "grandparent managing telehealth access",
+      "description": "Fictional demo persona: grandparent managing telehealth access trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "grandparent",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-11",
+      "kind": "persona",
+      "name": "Emerson K.",
+      "category": "parent working evening shifts",
+      "description": "Fictional demo persona: parent working evening shifts trying to use public internet for applications, with friction around fragmented referral lists.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "parent",
+        "fragmented referral lists"
+      ],
+      "properties": {
+        "goal": "use public internet for applications",
+        "friction": "fragmented referral lists",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-12",
+      "kind": "persona",
+      "name": "Finley L.",
+      "category": "high school student exploring health careers",
+      "description": "Fictional demo persona: high school student exploring health careers trying to connect training to a real job, with friction around hard-to-see small business demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "high",
+        "hard-to-see small business demand"
+      ],
+      "properties": {
+        "goal": "connect training to a real job",
+        "friction": "hard-to-see small business demand",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-13",
+      "kind": "persona",
+      "name": "Rowan M.",
+      "category": "small business owner",
+      "description": "Fictional demo persona: small business owner trying to document need for a grant, with friction around low trust in data sharing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "small",
+        "low trust in data sharing"
+      ],
+      "properties": {
+        "goal": "document need for a grant",
+        "friction": "low trust in data sharing",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-14",
+      "kind": "persona",
+      "name": "Skyler N.",
+      "category": "clinic care coordinator",
+      "description": "Fictional demo persona: clinic care coordinator trying to understand which partner to call first, with friction around unclear eligibility.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "clinic",
+        "unclear eligibility"
+      ],
+      "properties": {
+        "goal": "understand which partner to call first",
+        "friction": "unclear eligibility",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-15",
+      "kind": "persona",
+      "name": "Dakota O.",
+      "category": "faith community volunteer",
+      "description": "Fictional demo persona: faith community volunteer trying to route a family to trusted support, with friction around limited rural-to-city handoffs.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "faith",
+        "limited rural-to-city handoffs"
+      ],
+      "properties": {
+        "goal": "route a family to trusted support",
+        "friction": "limited rural-to-city handoffs",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-16",
+      "kind": "persona",
+      "name": "Jamie P.",
+      "category": "college student commuting from a rural edge",
+      "description": "Fictional demo persona: college student commuting from a rural edge trying to coordinate volunteers with nearby services, with friction around program hours that do not match work schedules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "college",
+        "program hours that do not match work schedules"
+      ],
+      "properties": {
+        "goal": "coordinate volunteers with nearby services",
+        "friction": "program hours that do not match work schedules",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-17",
+      "kind": "persona",
+      "name": "Cameron Q.",
+      "category": "teacher looking for mentors",
+      "description": "Fictional demo persona: teacher looking for mentors trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "teacher",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-18",
+      "kind": "persona",
+      "name": "Logan R.",
+      "category": "city staffer handling grant evidence",
+      "description": "Fictional demo persona: city staffer handling grant evidence trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "city",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-19",
+      "kind": "persona",
+      "name": "Kendall S.",
+      "category": "restaurant manager hiring entry-level workers",
+      "description": "Fictional demo persona: restaurant manager hiring entry-level workers trying to use public internet for applications, with friction around fragmented referral lists.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "restaurant",
+        "fragmented referral lists"
+      ],
+      "properties": {
+        "goal": "use public internet for applications",
+        "friction": "fragmented referral lists",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-20",
+      "kind": "persona",
+      "name": "Hayden T.",
+      "category": "grandparent managing telehealth access",
+      "description": "Fictional demo persona: grandparent managing telehealth access trying to connect training to a real job, with friction around hard-to-see small business demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "grandparent",
+        "hard-to-see small business demand"
+      ],
+      "properties": {
+        "goal": "connect training to a real job",
+        "friction": "hard-to-see small business demand",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-21",
+      "kind": "persona",
+      "name": "Payton U.",
+      "category": "parent working evening shifts",
+      "description": "Fictional demo persona: parent working evening shifts trying to document need for a grant, with friction around low trust in data sharing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "parent",
+        "low trust in data sharing"
+      ],
+      "properties": {
+        "goal": "document need for a grant",
+        "friction": "low trust in data sharing",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-22",
+      "kind": "persona",
+      "name": "Alexis V.",
+      "category": "high school student exploring health careers",
+      "description": "Fictional demo persona: high school student exploring health careers trying to understand which partner to call first, with friction around unclear eligibility.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "high",
+        "unclear eligibility"
+      ],
+      "properties": {
+        "goal": "understand which partner to call first",
+        "friction": "unclear eligibility",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-23",
+      "kind": "persona",
+      "name": "Drew W.",
+      "category": "small business owner",
+      "description": "Fictional demo persona: small business owner trying to route a family to trusted support, with friction around limited rural-to-city handoffs.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "small",
+        "limited rural-to-city handoffs"
+      ],
+      "properties": {
+        "goal": "route a family to trusted support",
+        "friction": "limited rural-to-city handoffs",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-24",
+      "kind": "persona",
+      "name": "Bailey X.",
+      "category": "clinic care coordinator",
+      "description": "Fictional demo persona: clinic care coordinator trying to coordinate volunteers with nearby services, with friction around program hours that do not match work schedules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "clinic",
+        "program hours that do not match work schedules"
+      ],
+      "properties": {
+        "goal": "coordinate volunteers with nearby services",
+        "friction": "program hours that do not match work schedules",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-25",
+      "kind": "persona",
+      "name": "Sage Y.",
+      "category": "faith community volunteer",
+      "description": "Fictional demo persona: faith community volunteer trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "faith",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-26",
+      "kind": "persona",
+      "name": "Avery Z.",
+      "category": "college student commuting from a rural edge",
+      "description": "Fictional demo persona: college student commuting from a rural edge trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "college",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-27",
+      "kind": "persona",
+      "name": "Jordan A.",
+      "category": "teacher looking for mentors",
+      "description": "Fictional demo persona: teacher looking for mentors trying to use public internet for applications, with friction around fragmented referral lists.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "teacher",
+        "fragmented referral lists"
+      ],
+      "properties": {
+        "goal": "use public internet for applications",
+        "friction": "fragmented referral lists",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-28",
+      "kind": "persona",
+      "name": "Morgan B.",
+      "category": "city staffer handling grant evidence",
+      "description": "Fictional demo persona: city staffer handling grant evidence trying to connect training to a real job, with friction around hard-to-see small business demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "city",
+        "hard-to-see small business demand"
+      ],
+      "properties": {
+        "goal": "connect training to a real job",
+        "friction": "hard-to-see small business demand",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-29",
+      "kind": "persona",
+      "name": "Taylor C.",
+      "category": "restaurant manager hiring entry-level workers",
+      "description": "Fictional demo persona: restaurant manager hiring entry-level workers trying to document need for a grant, with friction around low trust in data sharing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "restaurant",
+        "low trust in data sharing"
+      ],
+      "properties": {
+        "goal": "document need for a grant",
+        "friction": "low trust in data sharing",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-30",
+      "kind": "persona",
+      "name": "Riley D.",
+      "category": "grandparent managing telehealth access",
+      "description": "Fictional demo persona: grandparent managing telehealth access trying to understand which partner to call first, with friction around unclear eligibility.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "grandparent",
+        "unclear eligibility"
+      ],
+      "properties": {
+        "goal": "understand which partner to call first",
+        "friction": "unclear eligibility",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-31",
+      "kind": "persona",
+      "name": "Casey E.",
+      "category": "parent working evening shifts",
+      "description": "Fictional demo persona: parent working evening shifts trying to route a family to trusted support, with friction around limited rural-to-city handoffs.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "parent",
+        "limited rural-to-city handoffs"
+      ],
+      "properties": {
+        "goal": "route a family to trusted support",
+        "friction": "limited rural-to-city handoffs",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-32",
+      "kind": "persona",
+      "name": "Quinn F.",
+      "category": "high school student exploring health careers",
+      "description": "Fictional demo persona: high school student exploring health careers trying to coordinate volunteers with nearby services, with friction around program hours that do not match work schedules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "high",
+        "program hours that do not match work schedules"
+      ],
+      "properties": {
+        "goal": "coordinate volunteers with nearby services",
+        "friction": "program hours that do not match work schedules",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-33",
+      "kind": "persona",
+      "name": "Parker G.",
+      "category": "small business owner",
+      "description": "Fictional demo persona: small business owner trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "small",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-34",
+      "kind": "persona",
+      "name": "Harper H.",
+      "category": "clinic care coordinator",
+      "description": "Fictional demo persona: clinic care coordinator trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "clinic",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-35",
+      "kind": "persona",
+      "name": "Reese I.",
+      "category": "faith community volunteer",
+      "description": "Fictional demo persona: faith community volunteer trying to use public internet for applications, with friction around fragmented referral lists.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "faith",
+        "fragmented referral lists"
+      ],
+      "properties": {
+        "goal": "use public internet for applications",
+        "friction": "fragmented referral lists",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-36",
+      "kind": "persona",
+      "name": "Emerson J.",
+      "category": "college student commuting from a rural edge",
+      "description": "Fictional demo persona: college student commuting from a rural edge trying to connect training to a real job, with friction around hard-to-see small business demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "college",
+        "hard-to-see small business demand"
+      ],
+      "properties": {
+        "goal": "connect training to a real job",
+        "friction": "hard-to-see small business demand",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-37",
+      "kind": "persona",
+      "name": "Finley K.",
+      "category": "teacher looking for mentors",
+      "description": "Fictional demo persona: teacher looking for mentors trying to document need for a grant, with friction around low trust in data sharing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "teacher",
+        "low trust in data sharing"
+      ],
+      "properties": {
+        "goal": "document need for a grant",
+        "friction": "low trust in data sharing",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-38",
+      "kind": "persona",
+      "name": "Rowan L.",
+      "category": "city staffer handling grant evidence",
+      "description": "Fictional demo persona: city staffer handling grant evidence trying to understand which partner to call first, with friction around unclear eligibility.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "city",
+        "unclear eligibility"
+      ],
+      "properties": {
+        "goal": "understand which partner to call first",
+        "friction": "unclear eligibility",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-39",
+      "kind": "persona",
+      "name": "Skyler M.",
+      "category": "restaurant manager hiring entry-level workers",
+      "description": "Fictional demo persona: restaurant manager hiring entry-level workers trying to route a family to trusted support, with friction around limited rural-to-city handoffs.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "restaurant",
+        "limited rural-to-city handoffs"
+      ],
+      "properties": {
+        "goal": "route a family to trusted support",
+        "friction": "limited rural-to-city handoffs",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-40",
+      "kind": "persona",
+      "name": "Dakota N.",
+      "category": "grandparent managing telehealth access",
+      "description": "Fictional demo persona: grandparent managing telehealth access trying to coordinate volunteers with nearby services, with friction around program hours that do not match work schedules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "grandparent",
+        "program hours that do not match work schedules"
+      ],
+      "properties": {
+        "goal": "coordinate volunteers with nearby services",
+        "friction": "program hours that do not match work schedules",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-41",
+      "kind": "persona",
+      "name": "Jamie O.",
+      "category": "parent working evening shifts",
+      "description": "Fictional demo persona: parent working evening shifts trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "parent",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-42",
+      "kind": "persona",
+      "name": "Cameron P.",
+      "category": "high school student exploring health careers",
+      "description": "Fictional demo persona: high school student exploring health careers trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "high",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-43",
+      "kind": "persona",
+      "name": "Logan Q.",
+      "category": "small business owner",
+      "description": "Fictional demo persona: small business owner trying to use public internet for applications, with friction around fragmented referral lists.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "small",
+        "fragmented referral lists"
+      ],
+      "properties": {
+        "goal": "use public internet for applications",
+        "friction": "fragmented referral lists",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-44",
+      "kind": "persona",
+      "name": "Kendall R.",
+      "category": "clinic care coordinator",
+      "description": "Fictional demo persona: clinic care coordinator trying to connect training to a real job, with friction around hard-to-see small business demand.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "clinic",
+        "hard-to-see small business demand"
+      ],
+      "properties": {
+        "goal": "connect training to a real job",
+        "friction": "hard-to-see small business demand",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-45",
+      "kind": "persona",
+      "name": "Hayden S.",
+      "category": "faith community volunteer",
+      "description": "Fictional demo persona: faith community volunteer trying to document need for a grant, with friction around low trust in data sharing.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "faith",
+        "low trust in data sharing"
+      ],
+      "properties": {
+        "goal": "document need for a grant",
+        "friction": "low trust in data sharing",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-46",
+      "kind": "persona",
+      "name": "Payton T.",
+      "category": "college student commuting from a rural edge",
+      "description": "Fictional demo persona: college student commuting from a rural edge trying to understand which partner to call first, with friction around unclear eligibility.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "college",
+        "unclear eligibility"
+      ],
+      "properties": {
+        "goal": "understand which partner to call first",
+        "friction": "unclear eligibility",
+        "homeAreaId": "area-downtown-core",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-47",
+      "kind": "persona",
+      "name": "Alexis U.",
+      "category": "teacher looking for mentors",
+      "description": "Fictional demo persona: teacher looking for mentors trying to route a family to trusted support, with friction around limited rural-to-city handoffs.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "teacher",
+        "limited rural-to-city handoffs"
+      ],
+      "properties": {
+        "goal": "route a family to trusted support",
+        "friction": "limited rural-to-city handoffs",
+        "homeAreaId": "area-westgate-corridor",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-48",
+      "kind": "persona",
+      "name": "Drew V.",
+      "category": "city staffer handling grant evidence",
+      "description": "Fictional demo persona: city staffer handling grant evidence trying to coordinate volunteers with nearby services, with friction around program hours that do not match work schedules.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "city",
+        "program hours that do not match work schedules"
+      ],
+      "properties": {
+        "goal": "coordinate volunteers with nearby services",
+        "friction": "program hours that do not match work schedules",
+        "homeAreaId": "area-east-medical-campus",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-49",
+      "kind": "persona",
+      "name": "Bailey W.",
+      "category": "restaurant manager hiring entry-level workers",
+      "description": "Fictional demo persona: restaurant manager hiring entry-level workers trying to find a safe after-school option, with friction around evening transportation.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "restaurant",
+        "evening transportation"
+      ],
+      "properties": {
+        "goal": "find a safe after-school option",
+        "friction": "evening transportation",
+        "homeAreaId": "area-southside-family",
+        "realPerson": false
+      }
+    },
+    {
+      "id": "persona-50",
+      "kind": "persona",
+      "name": "Sage X.",
+      "category": "grandparent managing telehealth access",
+      "description": "Fictional demo persona: grandparent managing telehealth access trying to fill entry-level shifts without churn, with friction around no shared view of available spaces.",
+      "source": "synthetic",
+      "sourceLabel": "Synthetic persona generated for demo only",
+      "confidence": 0.52,
+      "tags": [
+        "fake user",
+        "grandparent",
+        "no shared view of available spaces"
+      ],
+      "properties": {
+        "goal": "fill entry-level shifts without churn",
+        "friction": "no shared view of available spaces",
+        "homeAreaId": "area-wiregrass-edge",
+        "realPerson": false
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-place-dothan-library-main-located-in-area-downtown-core",
+      "sourceId": "place-dothan-library-main",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-dothan-library-main-can-support-need-digital-access",
+      "sourceId": "place-dothan-library-main",
+      "targetId": "need-digital-access",
+      "relationship": "can_support",
+      "weight": 0.88,
+      "rationale": "Libraries are public digital access anchors."
+    },
+    {
+      "id": "edge-place-dothan-library-main-can-host-need-grant-coordination",
+      "sourceId": "place-dothan-library-main",
+      "targetId": "need-grant-coordination",
+      "relationship": "can_host",
+      "weight": 0.58,
+      "rationale": "Libraries can host civic evidence and program sessions."
+    },
+    {
+      "id": "edge-place-westgate-library-located-in-area-westgate-corridor",
+      "sourceId": "place-westgate-library",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-westgate-library-can-support-need-digital-access",
+      "sourceId": "place-westgate-library",
+      "targetId": "need-digital-access",
+      "relationship": "can_support",
+      "weight": 0.88,
+      "rationale": "Libraries are public digital access anchors."
+    },
+    {
+      "id": "edge-place-westgate-library-can-host-need-grant-coordination",
+      "sourceId": "place-westgate-library",
+      "targetId": "need-grant-coordination",
+      "relationship": "can_host",
+      "weight": 0.58,
+      "rationale": "Libraries can host civic evidence and program sessions."
+    },
+    {
+      "id": "edge-place-carver-school-located-in-area-southside-family",
+      "sourceId": "place-carver-school",
+      "targetId": "area-southside-family",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-carver-school-can-support-need-career-pathways",
+      "sourceId": "place-carver-school",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-carver-school-can-support-need-youth-after-school",
+      "sourceId": "place-carver-school",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-girard-primary-located-in-area-downtown-core",
+      "sourceId": "place-girard-primary",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-girard-primary-can-support-need-career-pathways",
+      "sourceId": "place-girard-primary",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-girard-primary-can-support-need-youth-after-school",
+      "sourceId": "place-girard-primary",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-girard-intermediate-located-in-area-downtown-core",
+      "sourceId": "place-girard-intermediate",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-girard-intermediate-can-support-need-career-pathways",
+      "sourceId": "place-girard-intermediate",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-girard-intermediate-can-support-need-youth-after-school",
+      "sourceId": "place-girard-intermediate",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-grandview-elementary-located-in-area-downtown-core",
+      "sourceId": "place-grandview-elementary",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-grandview-elementary-can-support-need-career-pathways",
+      "sourceId": "place-grandview-elementary",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-grandview-elementary-can-support-need-youth-after-school",
+      "sourceId": "place-grandview-elementary",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-head-start-located-in-area-downtown-core",
+      "sourceId": "place-head-start",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-head-start-can-support-need-career-pathways",
+      "sourceId": "place-head-start",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-head-start-can-support-need-youth-after-school",
+      "sourceId": "place-head-start",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-jerry-lee-faine-located-in-area-downtown-core",
+      "sourceId": "place-jerry-lee-faine",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-jerry-lee-faine-can-support-need-career-pathways",
+      "sourceId": "place-jerry-lee-faine",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-jerry-lee-faine-can-support-need-youth-after-school",
+      "sourceId": "place-jerry-lee-faine",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-dothan-high-located-in-area-downtown-core",
+      "sourceId": "place-dothan-high",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-dothan-high-can-support-need-career-pathways",
+      "sourceId": "place-dothan-high",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-dothan-high-can-support-need-youth-after-school",
+      "sourceId": "place-dothan-high",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-dothan-tech-located-in-area-downtown-core",
+      "sourceId": "place-dothan-tech",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-dothan-tech-can-support-need-career-pathways",
+      "sourceId": "place-dothan-tech",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-dothan-tech-can-support-need-youth-after-school",
+      "sourceId": "place-dothan-tech",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-troy-dothan-located-in-area-westgate-corridor",
+      "sourceId": "place-troy-dothan",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-troy-dothan-can-support-need-career-pathways",
+      "sourceId": "place-troy-dothan",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-troy-dothan-can-support-need-youth-after-school",
+      "sourceId": "place-troy-dothan",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-wallace-campus-located-in-area-wiregrass-edge",
+      "sourceId": "place-wallace-campus",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-wallace-campus-can-support-need-career-pathways",
+      "sourceId": "place-wallace-campus",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-wallace-campus-can-support-need-youth-after-school",
+      "sourceId": "place-wallace-campus",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-acom-located-in-area-east-medical-campus",
+      "sourceId": "place-acom",
+      "targetId": "area-east-medical-campus",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-acom-can-support-need-career-pathways",
+      "sourceId": "place-acom",
+      "targetId": "need-career-pathways",
+      "relationship": "can_support",
+      "weight": 0.82,
+      "rationale": "Education assets can support pathway matching."
+    },
+    {
+      "id": "edge-place-acom-can-support-need-youth-after-school",
+      "sourceId": "place-acom",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_support",
+      "weight": 0.74,
+      "rationale": "Education assets can host or route youth opportunity."
+    },
+    {
+      "id": "edge-place-southeast-health-located-in-area-east-medical-campus",
+      "sourceId": "place-southeast-health",
+      "targetId": "area-east-medical-campus",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-southeast-health-surfaces-need-health-navigation",
+      "sourceId": "place-southeast-health",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-southeast-health-receives-need-rural-referrals",
+      "sourceId": "place-southeast-health",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-flowers-hospital-located-in-area-westgate-corridor",
+      "sourceId": "place-flowers-hospital",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-flowers-hospital-surfaces-need-health-navigation",
+      "sourceId": "place-flowers-hospital",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-flowers-hospital-receives-need-rural-referrals",
+      "sourceId": "place-flowers-hospital",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-laurel-oaks-located-in-area-southside-family",
+      "sourceId": "place-laurel-oaks",
+      "targetId": "area-southside-family",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-laurel-oaks-surfaces-need-health-navigation",
+      "sourceId": "place-laurel-oaks",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-laurel-oaks-receives-need-rural-referrals",
+      "sourceId": "place-laurel-oaks",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-the-haven-located-in-area-westgate-corridor",
+      "sourceId": "place-the-haven",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-the-haven-surfaces-need-health-navigation",
+      "sourceId": "place-the-haven",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-the-haven-receives-need-rural-referrals",
+      "sourceId": "place-the-haven",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-afc-dothan-located-in-area-westgate-corridor",
+      "sourceId": "place-afc-dothan",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-afc-dothan-surfaces-need-health-navigation",
+      "sourceId": "place-afc-dothan",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-afc-dothan-receives-need-rural-referrals",
+      "sourceId": "place-afc-dothan",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-southeast-pain-located-in-area-east-medical-campus",
+      "sourceId": "place-southeast-pain",
+      "targetId": "area-east-medical-campus",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-southeast-pain-surfaces-need-health-navigation",
+      "sourceId": "place-southeast-pain",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-southeast-pain-receives-need-rural-referrals",
+      "sourceId": "place-southeast-pain",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-southern-bone-located-in-area-westgate-corridor",
+      "sourceId": "place-southern-bone",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-southern-bone-surfaces-need-health-navigation",
+      "sourceId": "place-southern-bone",
+      "targetId": "need-health-navigation",
+      "relationship": "surfaces",
+      "weight": 0.86,
+      "rationale": "Clinical nodes surface navigation and referral demand."
+    },
+    {
+      "id": "edge-place-southern-bone-receives-need-rural-referrals",
+      "sourceId": "place-southern-bone",
+      "targetId": "need-rural-referrals",
+      "relationship": "receives",
+      "weight": 0.66,
+      "rationale": "Regional health nodes receive surrounding Wiregrass referrals."
+    },
+    {
+      "id": "edge-place-fairview-park-located-in-area-downtown-core",
+      "sourceId": "place-fairview-park",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-fairview-park-can-host-need-youth-after-school",
+      "sourceId": "place-fairview-park",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_host",
+      "weight": 0.78,
+      "rationale": "Recreation assets can host youth programming."
+    },
+    {
+      "id": "edge-place-fairview-park-depends-on-need-evening-transport",
+      "sourceId": "place-fairview-park",
+      "targetId": "need-evening-transport",
+      "relationship": "depends_on",
+      "weight": 0.62,
+      "rationale": "Program usefulness depends on reachability and timing."
+    },
+    {
+      "id": "edge-place-doug-tew-located-in-area-southside-family",
+      "sourceId": "place-doug-tew",
+      "targetId": "area-southside-family",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-doug-tew-can-host-need-youth-after-school",
+      "sourceId": "place-doug-tew",
+      "targetId": "need-youth-after-school",
+      "relationship": "can_host",
+      "weight": 0.78,
+      "rationale": "Recreation assets can host youth programming."
+    },
+    {
+      "id": "edge-place-doug-tew-depends-on-need-evening-transport",
+      "sourceId": "place-doug-tew",
+      "targetId": "need-evening-transport",
+      "relationship": "depends_on",
+      "weight": 0.62,
+      "rationale": "Program usefulness depends on reachability and timing."
+    },
+    {
+      "id": "edge-place-winn-dixie-located-in-area-westgate-corridor",
+      "sourceId": "place-winn-dixie",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-winn-dixie-indicates-need-small-business",
+      "sourceId": "place-winn-dixie",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-winn-dixie-can-support-need-food-access",
+      "sourceId": "place-winn-dixie",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-publix-west-located-in-area-westgate-corridor",
+      "sourceId": "place-publix-west",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-publix-west-indicates-need-small-business",
+      "sourceId": "place-publix-west",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-publix-west-can-support-need-food-access",
+      "sourceId": "place-publix-west",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-publix-south-located-in-area-southside-family",
+      "sourceId": "place-publix-south",
+      "targetId": "area-southside-family",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-publix-south-indicates-need-small-business",
+      "sourceId": "place-publix-south",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-publix-south-can-support-need-food-access",
+      "sourceId": "place-publix-south",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-tienda-latina-located-in-area-southside-family",
+      "sourceId": "place-tienda-latina",
+      "targetId": "area-southside-family",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-tienda-latina-indicates-need-small-business",
+      "sourceId": "place-tienda-latina",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-tienda-latina-can-support-need-food-access",
+      "sourceId": "place-tienda-latina",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-tj-maxx-located-in-area-downtown-core",
+      "sourceId": "place-tj-maxx",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-tj-maxx-indicates-need-small-business",
+      "sourceId": "place-tj-maxx",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-top-thai-located-in-area-westgate-corridor",
+      "sourceId": "place-top-thai",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-top-thai-indicates-need-small-business",
+      "sourceId": "place-top-thai",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-top-thai-can-support-need-food-access",
+      "sourceId": "place-top-thai",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-blue-plate-located-in-area-southside-family",
+      "sourceId": "place-blue-plate",
+      "targetId": "area-southside-family",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-blue-plate-indicates-need-small-business",
+      "sourceId": "place-blue-plate",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-blue-plate-can-support-need-food-access",
+      "sourceId": "place-blue-plate",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-captain-hooks-located-in-area-downtown-core",
+      "sourceId": "place-captain-hooks",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-captain-hooks-indicates-need-small-business",
+      "sourceId": "place-captain-hooks",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-captain-hooks-can-support-need-food-access",
+      "sourceId": "place-captain-hooks",
+      "targetId": "need-food-access",
+      "relationship": "can_support",
+      "weight": 0.64,
+      "rationale": "Food nodes matter for practical access and family support."
+    },
+    {
+      "id": "edge-place-ups-west-located-in-area-westgate-corridor",
+      "sourceId": "place-ups-west",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-ups-west-indicates-need-small-business",
+      "sourceId": "place-ups-west",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-ups-midtown-located-in-area-westgate-corridor",
+      "sourceId": "place-ups-midtown",
+      "targetId": "area-westgate-corridor",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-ups-midtown-indicates-need-small-business",
+      "sourceId": "place-ups-midtown",
+      "targetId": "need-small-business",
+      "relationship": "indicates",
+      "weight": 0.72,
+      "rationale": "Commercial nodes help reveal corridor vitality and demand."
+    },
+    {
+      "id": "edge-place-kinsey-fire-located-in-area-east-medical-campus",
+      "sourceId": "place-kinsey-fire",
+      "targetId": "area-east-medical-campus",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-midland-police-located-in-area-wiregrass-edge",
+      "sourceId": "place-midland-police",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-midland-library-located-in-area-wiregrass-edge",
+      "sourceId": "place-midland-library",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-midland-library-can-support-need-digital-access",
+      "sourceId": "place-midland-library",
+      "targetId": "need-digital-access",
+      "relationship": "can_support",
+      "weight": 0.88,
+      "rationale": "Libraries are public digital access anchors."
+    },
+    {
+      "id": "edge-place-midland-library-can-host-need-grant-coordination",
+      "sourceId": "place-midland-library",
+      "targetId": "need-grant-coordination",
+      "relationship": "can_host",
+      "weight": 0.58,
+      "rationale": "Libraries can host civic evidence and program sessions."
+    },
+    {
+      "id": "edge-place-central-baptist-located-in-area-downtown-core",
+      "sourceId": "place-central-baptist",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-central-baptist-trusted-conduit-for-need-trusted-data",
+      "sourceId": "place-central-baptist",
+      "targetId": "need-trusted-data",
+      "relationship": "trusted_conduit_for",
+      "weight": 0.79,
+      "rationale": "Faith anchors can support consentful listening and trusted referrals."
+    },
+    {
+      "id": "edge-place-central-baptist-can-surface-need-housing-stability",
+      "sourceId": "place-central-baptist",
+      "targetId": "need-housing-stability",
+      "relationship": "can_surface",
+      "weight": 0.61,
+      "rationale": "Trusted networks often see household instability early."
+    },
+    {
+      "id": "edge-place-temple-emanuel-located-in-area-downtown-core",
+      "sourceId": "place-temple-emanuel",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-temple-emanuel-trusted-conduit-for-need-trusted-data",
+      "sourceId": "place-temple-emanuel",
+      "targetId": "need-trusted-data",
+      "relationship": "trusted_conduit_for",
+      "weight": 0.79,
+      "rationale": "Faith anchors can support consentful listening and trusted referrals."
+    },
+    {
+      "id": "edge-place-temple-emanuel-can-surface-need-housing-stability",
+      "sourceId": "place-temple-emanuel",
+      "targetId": "need-housing-stability",
+      "relationship": "can_surface",
+      "weight": 0.61,
+      "rationale": "Trusted networks often see household instability early."
+    },
+    {
+      "id": "edge-place-first-christian-located-in-area-downtown-core",
+      "sourceId": "place-first-christian",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-first-christian-trusted-conduit-for-need-trusted-data",
+      "sourceId": "place-first-christian",
+      "targetId": "need-trusted-data",
+      "relationship": "trusted_conduit_for",
+      "weight": 0.79,
+      "rationale": "Faith anchors can support consentful listening and trusted referrals."
+    },
+    {
+      "id": "edge-place-first-christian-can-surface-need-housing-stability",
+      "sourceId": "place-first-christian",
+      "targetId": "need-housing-stability",
+      "relationship": "can_surface",
+      "weight": 0.61,
+      "rationale": "Trusted networks often see household instability early."
+    },
+    {
+      "id": "edge-place-wiregrass-church-located-in-area-downtown-core",
+      "sourceId": "place-wiregrass-church",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-wiregrass-church-trusted-conduit-for-need-trusted-data",
+      "sourceId": "place-wiregrass-church",
+      "targetId": "need-trusted-data",
+      "relationship": "trusted_conduit_for",
+      "weight": 0.79,
+      "rationale": "Faith anchors can support consentful listening and trusted referrals."
+    },
+    {
+      "id": "edge-place-wiregrass-church-can-surface-need-housing-stability",
+      "sourceId": "place-wiregrass-church",
+      "targetId": "need-housing-stability",
+      "relationship": "can_surface",
+      "weight": 0.61,
+      "rationale": "Trusted networks often see household instability early."
+    },
+    {
+      "id": "edge-place-zion-ame-located-in-area-downtown-core",
+      "sourceId": "place-zion-ame",
+      "targetId": "area-downtown-core",
+      "relationship": "located_in",
+      "weight": 0.74,
+      "rationale": "Nearest demo area overlay based on latitude and longitude."
+    },
+    {
+      "id": "edge-place-zion-ame-trusted-conduit-for-need-trusted-data",
+      "sourceId": "place-zion-ame",
+      "targetId": "need-trusted-data",
+      "relationship": "trusted_conduit_for",
+      "weight": 0.79,
+      "rationale": "Faith anchors can support consentful listening and trusted referrals."
+    },
+    {
+      "id": "edge-place-zion-ame-can-surface-need-housing-stability",
+      "sourceId": "place-zion-ame",
+      "targetId": "need-housing-stability",
+      "relationship": "can_surface",
+      "weight": 0.61,
+      "rationale": "Trusted networks often see household instability early."
+    },
+    {
+      "id": "edge-org-wiregrass-youth-pathways-works-on-need-youth-after-school",
+      "sourceId": "org-wiregrass-youth-pathways",
+      "targetId": "need-youth-after-school",
+      "relationship": "works_on",
+      "weight": 0.91,
+      "rationale": "Youth coalition aligns after-school assets."
+    },
+    {
+      "id": "edge-org-wiregrass-youth-pathways-works-on-need-career-pathways",
+      "sourceId": "org-wiregrass-youth-pathways",
+      "targetId": "need-career-pathways",
+      "relationship": "works_on",
+      "weight": 0.93,
+      "rationale": "Youth coalition connects pathways to employers."
+    },
+    {
+      "id": "edge-org-wiregrass-youth-pathways-should-partner-with-place-dothan-high",
+      "sourceId": "org-wiregrass-youth-pathways",
+      "targetId": "place-dothan-high",
+      "relationship": "should_partner_with",
+      "weight": 0.86,
+      "rationale": "High school is a primary pathway anchor."
+    },
+    {
+      "id": "edge-org-wiregrass-skills-council-should-partner-with-place-dothan-tech",
+      "sourceId": "org-wiregrass-skills-council",
+      "targetId": "place-dothan-tech",
+      "relationship": "should_partner_with",
+      "weight": 0.9,
+      "rationale": "Technical education can align with employer demand."
+    },
+    {
+      "id": "edge-org-wiregrass-skills-council-should-partner-with-place-wallace-campus",
+      "sourceId": "org-wiregrass-skills-council",
+      "targetId": "place-wallace-campus",
+      "relationship": "should_partner_with",
+      "weight": 0.82,
+      "rationale": "Community college supports regional training."
+    },
+    {
+      "id": "edge-org-wiregrass-health-link-works-on-need-health-navigation",
+      "sourceId": "org-wiregrass-health-link",
+      "targetId": "need-health-navigation",
+      "relationship": "works_on",
+      "weight": 0.92,
+      "rationale": "Health link reduces failed handoffs."
+    },
+    {
+      "id": "edge-org-wiregrass-health-link-should-partner-with-place-southeast-health",
+      "sourceId": "org-wiregrass-health-link",
+      "targetId": "place-southeast-health",
+      "relationship": "should_partner_with",
+      "weight": 0.87,
+      "rationale": "Hospital anchor has clear buyer relevance."
+    },
+    {
+      "id": "edge-org-clinical-social-needs-team-works-on-need-rural-referrals",
+      "sourceId": "org-clinical-social-needs-team",
+      "targetId": "need-rural-referrals",
+      "relationship": "works_on",
+      "weight": 0.78,
+      "rationale": "Social needs team can close rural referral loops."
+    },
+    {
+      "id": "edge-org-eastside-care-navigators-should-partner-with-place-acom",
+      "sourceId": "org-eastside-care-navigators",
+      "targetId": "place-acom",
+      "relationship": "should_partner_with",
+      "weight": 0.72,
+      "rationale": "Medical education can supply student navigator capacity."
+    },
+    {
+      "id": "edge-org-main-street-dothan-lab-works-on-need-small-business",
+      "sourceId": "org-main-street-dothan-lab",
+      "targetId": "need-small-business",
+      "relationship": "works_on",
+      "weight": 0.88,
+      "rationale": "Main street lab owns corridor vitality questions."
+    },
+    {
+      "id": "edge-org-downtown-merchant-circle-near-place-dothan-library-main",
+      "sourceId": "org-downtown-merchant-circle",
+      "targetId": "place-dothan-library-main",
+      "relationship": "near",
+      "weight": 0.68,
+      "rationale": "Library and merchants can co-create downtown programs."
+    },
+    {
+      "id": "edge-org-westgate-family-roundtable-works-on-need-childcare-family",
+      "sourceId": "org-westgate-family-roundtable",
+      "targetId": "need-childcare-family",
+      "relationship": "works_on",
+      "weight": 0.86,
+      "rationale": "Family roundtable can coordinate school, grocery, and library assets."
+    },
+    {
+      "id": "edge-org-westgate-family-roundtable-should-partner-with-place-westgate-library",
+      "sourceId": "org-westgate-family-roundtable",
+      "targetId": "place-westgate-library",
+      "relationship": "should_partner_with",
+      "weight": 0.84,
+      "rationale": "Library branch is a visible access point."
+    },
+    {
+      "id": "edge-org-dothan-mobility-pilot-works-on-need-evening-transport",
+      "sourceId": "org-dothan-mobility-pilot",
+      "targetId": "need-evening-transport",
+      "relationship": "works_on",
+      "weight": 0.9,
+      "rationale": "Mobility pilot owns evening access friction."
+    },
+    {
+      "id": "edge-org-family-bridge-works-on-need-food-access",
+      "sourceId": "org-family-bridge",
+      "targetId": "need-food-access",
+      "relationship": "works_on",
+      "weight": 0.82,
+      "rationale": "Family support network routes food access."
+    },
+    {
+      "id": "edge-org-family-bridge-works-on-need-childcare-family",
+      "sourceId": "org-family-bridge",
+      "targetId": "need-childcare-family",
+      "relationship": "works_on",
+      "weight": 0.84,
+      "rationale": "Family bridge links childcare and early learning."
+    },
+    {
+      "id": "edge-org-library-digital-navigators-works-on-need-digital-access",
+      "sourceId": "org-library-digital-navigators",
+      "targetId": "need-digital-access",
+      "relationship": "works_on",
+      "weight": 0.9,
+      "rationale": "Library navigators directly address public digital access."
+    },
+    {
+      "id": "edge-org-faith-anchor-network-guards-need-trusted-data",
+      "sourceId": "org-faith-anchor-network",
+      "targetId": "need-trusted-data",
+      "relationship": "guards",
+      "weight": 0.86,
+      "rationale": "Faith anchors can govern trust and listening boundaries."
+    },
+    {
+      "id": "edge-org-faith-anchor-network-should-partner-with-place-central-baptist",
+      "sourceId": "org-faith-anchor-network",
+      "targetId": "place-central-baptist",
+      "relationship": "should_partner_with",
+      "weight": 0.7,
+      "rationale": "Central Baptist is a downtown trust node."
+    },
+    {
+      "id": "edge-org-wiregrass-funders-table-funds-need-grant-coordination",
+      "sourceId": "org-wiregrass-funders-table",
+      "targetId": "need-grant-coordination",
+      "relationship": "funds",
+      "weight": 0.92,
+      "rationale": "Funders need evidence-backed coordination."
+    },
+    {
+      "id": "edge-org-dothan-civic-data-trust-governs-need-trusted-data",
+      "sourceId": "org-dothan-civic-data-trust",
+      "targetId": "need-trusted-data",
+      "relationship": "governs",
+      "weight": 0.95,
+      "rationale": "Civic data trust frames permissible live data use."
+    },
+    {
+      "id": "edge-org-wiregrass-rural-referral-hub-serves-area-wiregrass-edge",
+      "sourceId": "org-wiregrass-rural-referral-hub",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "serves",
+      "weight": 0.82,
+      "rationale": "Regional hub connects rural edge nodes to Dothan services."
+    },
+    {
+      "id": "edge-org-local-employer-cohort-demands-need-career-pathways",
+      "sourceId": "org-local-employer-cohort",
+      "targetId": "need-career-pathways",
+      "relationship": "demands",
+      "weight": 0.88,
+      "rationale": "Employers have direct incentive to reduce workforce friction."
+    },
+    {
+      "id": "edge-org-small-business-service-desk-works-on-need-small-business",
+      "sourceId": "org-small-business-service-desk",
+      "targetId": "need-small-business",
+      "relationship": "works_on",
+      "weight": 0.83,
+      "rationale": "Service desk can convert graph insights into merchant actions."
+    },
+    {
+      "id": "edge-org-housing-referral-collaborative-works-on-need-housing-stability",
+      "sourceId": "org-housing-referral-collaborative",
+      "targetId": "need-housing-stability",
+      "relationship": "works_on",
+      "weight": 0.87,
+      "rationale": "Housing collaborative needs earlier referral context."
+    },
+    {
+      "id": "edge-org-after-hours-programming-pool-hosts-need-youth-after-school",
+      "sourceId": "org-after-hours-programming-pool",
+      "targetId": "need-youth-after-school",
+      "relationship": "hosts",
+      "weight": 0.83,
+      "rationale": "Programming pool can coordinate spaces and mentors."
+    },
+    {
+      "id": "edge-signal-westgate-youth-cluster-observed-in-area-westgate-corridor",
+      "sourceId": "signal-westgate-youth-cluster",
+      "targetId": "area-westgate-corridor",
+      "relationship": "observed_in",
+      "weight": 0.85,
+      "rationale": "Westgate assets cluster in the same overlay."
+    },
+    {
+      "id": "edge-signal-westgate-youth-cluster-reveals-need-evening-transport",
+      "sourceId": "signal-westgate-youth-cluster",
+      "targetId": "need-evening-transport",
+      "relationship": "reveals",
+      "weight": 0.77,
+      "rationale": "Cluster value depends on timing and reachability."
+    },
+    {
+      "id": "edge-signal-east-health-education-cluster-observed-in-area-east-medical-campus",
+      "sourceId": "signal-east-health-education-cluster",
+      "targetId": "area-east-medical-campus",
+      "relationship": "observed_in",
+      "weight": 0.86,
+      "rationale": "Medical and education assets cluster east of downtown."
+    },
+    {
+      "id": "edge-signal-east-health-education-cluster-reveals-need-health-navigation",
+      "sourceId": "signal-east-health-education-cluster",
+      "targetId": "need-health-navigation",
+      "relationship": "reveals",
+      "weight": 0.82,
+      "rationale": "Clinical density increases routing complexity."
+    },
+    {
+      "id": "edge-signal-downtown-trust-layer-observed-in-area-downtown-core",
+      "sourceId": "signal-downtown-trust-layer",
+      "targetId": "area-downtown-core",
+      "relationship": "observed_in",
+      "weight": 0.82,
+      "rationale": "Downtown trust and business nodes overlap."
+    },
+    {
+      "id": "edge-signal-downtown-trust-layer-reveals-need-small-business",
+      "sourceId": "signal-downtown-trust-layer",
+      "targetId": "need-small-business",
+      "relationship": "reveals",
+      "weight": 0.74,
+      "rationale": "Trust anchors can support small business activation."
+    },
+    {
+      "id": "edge-signal-wiregrass-referral-edge-observed-in-area-wiregrass-edge",
+      "sourceId": "signal-wiregrass-referral-edge",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "observed_in",
+      "weight": 0.81,
+      "rationale": "Regional edge nodes point back to Dothan services."
+    },
+    {
+      "id": "edge-signal-family-access-southside-observed-in-area-southside-family",
+      "sourceId": "signal-family-access-southside",
+      "targetId": "area-southside-family",
+      "relationship": "observed_in",
+      "weight": 0.8,
+      "rationale": "Family assets cluster south of the city core."
+    },
+    {
+      "id": "edge-signal-data-integrity-buyer-reveals-need-trusted-data",
+      "sourceId": "signal-data-integrity-buyer",
+      "targetId": "need-trusted-data",
+      "relationship": "reveals",
+      "weight": 0.94,
+      "rationale": "Data integrity is the buyer filter."
+    },
+    {
+      "id": "edge-persona-01-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-01",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-01-experiences-need-youth-after-school",
+      "sourceId": "persona-01",
+      "targetId": "need-youth-after-school",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-02-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-02",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-02-experiences-need-career-pathways",
+      "sourceId": "persona-02",
+      "targetId": "need-career-pathways",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-03-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-03",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-03-experiences-need-small-business",
+      "sourceId": "persona-03",
+      "targetId": "need-small-business",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-04-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-04",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-04-experiences-need-health-navigation",
+      "sourceId": "persona-04",
+      "targetId": "need-health-navigation",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-05-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-05",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-05-experiences-need-trusted-data",
+      "sourceId": "persona-05",
+      "targetId": "need-trusted-data",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-06-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-06",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-06-experiences-need-rural-referrals",
+      "sourceId": "persona-06",
+      "targetId": "need-rural-referrals",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-07-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-07",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-07-experiences-need-grant-coordination",
+      "sourceId": "persona-07",
+      "targetId": "need-grant-coordination",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-08-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-08",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-08-experiences-need-digital-access",
+      "sourceId": "persona-08",
+      "targetId": "need-digital-access",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-09-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-09",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-09-experiences-need-evening-transport",
+      "sourceId": "persona-09",
+      "targetId": "need-evening-transport",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-10-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-10",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-10-experiences-need-childcare-family",
+      "sourceId": "persona-10",
+      "targetId": "need-childcare-family",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-11-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-11",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-11-experiences-need-youth-after-school",
+      "sourceId": "persona-11",
+      "targetId": "need-youth-after-school",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-12-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-12",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-12-experiences-need-career-pathways",
+      "sourceId": "persona-12",
+      "targetId": "need-career-pathways",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-13-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-13",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-13-experiences-need-small-business",
+      "sourceId": "persona-13",
+      "targetId": "need-small-business",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-14-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-14",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-14-experiences-need-health-navigation",
+      "sourceId": "persona-14",
+      "targetId": "need-health-navigation",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-15-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-15",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-15-experiences-need-trusted-data",
+      "sourceId": "persona-15",
+      "targetId": "need-trusted-data",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-16-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-16",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-16-experiences-need-rural-referrals",
+      "sourceId": "persona-16",
+      "targetId": "need-rural-referrals",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-17-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-17",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-17-experiences-need-grant-coordination",
+      "sourceId": "persona-17",
+      "targetId": "need-grant-coordination",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-18-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-18",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-18-experiences-need-digital-access",
+      "sourceId": "persona-18",
+      "targetId": "need-digital-access",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-19-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-19",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-19-experiences-need-evening-transport",
+      "sourceId": "persona-19",
+      "targetId": "need-evening-transport",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-20-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-20",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-20-experiences-need-childcare-family",
+      "sourceId": "persona-20",
+      "targetId": "need-childcare-family",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-21-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-21",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-21-experiences-need-youth-after-school",
+      "sourceId": "persona-21",
+      "targetId": "need-youth-after-school",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-22-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-22",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-22-experiences-need-career-pathways",
+      "sourceId": "persona-22",
+      "targetId": "need-career-pathways",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-23-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-23",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-23-experiences-need-small-business",
+      "sourceId": "persona-23",
+      "targetId": "need-small-business",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-24-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-24",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-24-experiences-need-health-navigation",
+      "sourceId": "persona-24",
+      "targetId": "need-health-navigation",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-25-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-25",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-25-experiences-need-trusted-data",
+      "sourceId": "persona-25",
+      "targetId": "need-trusted-data",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-26-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-26",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-26-experiences-need-rural-referrals",
+      "sourceId": "persona-26",
+      "targetId": "need-rural-referrals",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-27-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-27",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-27-experiences-need-grant-coordination",
+      "sourceId": "persona-27",
+      "targetId": "need-grant-coordination",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-28-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-28",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-28-experiences-need-digital-access",
+      "sourceId": "persona-28",
+      "targetId": "need-digital-access",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-29-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-29",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-29-experiences-need-evening-transport",
+      "sourceId": "persona-29",
+      "targetId": "need-evening-transport",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-30-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-30",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-30-experiences-need-childcare-family",
+      "sourceId": "persona-30",
+      "targetId": "need-childcare-family",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-31-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-31",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-31-experiences-need-youth-after-school",
+      "sourceId": "persona-31",
+      "targetId": "need-youth-after-school",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-32-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-32",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-32-experiences-need-career-pathways",
+      "sourceId": "persona-32",
+      "targetId": "need-career-pathways",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-33-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-33",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-33-experiences-need-small-business",
+      "sourceId": "persona-33",
+      "targetId": "need-small-business",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-34-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-34",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-34-experiences-need-health-navigation",
+      "sourceId": "persona-34",
+      "targetId": "need-health-navigation",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-35-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-35",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-35-experiences-need-trusted-data",
+      "sourceId": "persona-35",
+      "targetId": "need-trusted-data",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-36-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-36",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-36-experiences-need-rural-referrals",
+      "sourceId": "persona-36",
+      "targetId": "need-rural-referrals",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-37-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-37",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-37-experiences-need-grant-coordination",
+      "sourceId": "persona-37",
+      "targetId": "need-grant-coordination",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-38-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-38",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-38-experiences-need-digital-access",
+      "sourceId": "persona-38",
+      "targetId": "need-digital-access",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-39-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-39",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-39-experiences-need-evening-transport",
+      "sourceId": "persona-39",
+      "targetId": "need-evening-transport",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-40-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-40",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-40-experiences-need-childcare-family",
+      "sourceId": "persona-40",
+      "targetId": "need-childcare-family",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-41-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-41",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-41-experiences-need-youth-after-school",
+      "sourceId": "persona-41",
+      "targetId": "need-youth-after-school",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-42-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-42",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-42-experiences-need-career-pathways",
+      "sourceId": "persona-42",
+      "targetId": "need-career-pathways",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-43-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-43",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-43-experiences-need-small-business",
+      "sourceId": "persona-43",
+      "targetId": "need-small-business",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-44-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-44",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-44-experiences-need-health-navigation",
+      "sourceId": "persona-44",
+      "targetId": "need-health-navigation",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-45-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-45",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-45-experiences-need-trusted-data",
+      "sourceId": "persona-45",
+      "targetId": "need-trusted-data",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-46-lives-or-works-near-area-downtown-core",
+      "sourceId": "persona-46",
+      "targetId": "area-downtown-core",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-46-experiences-need-rural-referrals",
+      "sourceId": "persona-46",
+      "targetId": "need-rural-referrals",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-47-lives-or-works-near-area-westgate-corridor",
+      "sourceId": "persona-47",
+      "targetId": "area-westgate-corridor",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-47-experiences-need-grant-coordination",
+      "sourceId": "persona-47",
+      "targetId": "need-grant-coordination",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-48-lives-or-works-near-area-east-medical-campus",
+      "sourceId": "persona-48",
+      "targetId": "area-east-medical-campus",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-48-experiences-need-digital-access",
+      "sourceId": "persona-48",
+      "targetId": "need-digital-access",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-49-lives-or-works-near-area-southside-family",
+      "sourceId": "persona-49",
+      "targetId": "area-southside-family",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-49-experiences-need-evening-transport",
+      "sourceId": "persona-49",
+      "targetId": "need-evening-transport",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    },
+    {
+      "id": "edge-persona-50-lives-or-works-near-area-wiregrass-edge",
+      "sourceId": "persona-50",
+      "targetId": "area-wiregrass-edge",
+      "relationship": "lives_or_works_near",
+      "weight": 0.5,
+      "rationale": "Synthetic persona is assigned to a demo area overlay."
+    },
+    {
+      "id": "edge-persona-50-experiences-need-childcare-family",
+      "sourceId": "persona-50",
+      "targetId": "need-childcare-family",
+      "relationship": "experiences",
+      "weight": 0.64,
+      "rationale": "Synthetic persona expresses this need in the demo seed."
+    }
+  ],
+  "insights": [
+    {
+      "id": "insight-youth-workforce-wedge",
+      "title": "Youth pathways are the cleanest first wedge",
+      "summary": "Schools, career training, higher education, health anchors, and employers are close enough to model as one relationship system.",
+      "recommendation": "Use the first buyer conversation around youth opportunity and workforce pathway friction, then show how AVRAI detects missing links.",
+      "buyerSignal": "Workforce councils, chambers, hospitals, schools, and funders all have incentive to reduce this coordination cost.",
+      "confidence": 0.82,
+      "focusNodeIds": [
+        "place-dothan-high",
+        "place-dothan-tech",
+        "place-wallace-campus",
+        "place-acom",
+        "place-southeast-health",
+        "org-wiregrass-youth-pathways",
+        "org-wiregrass-skills-council",
+        "need-career-pathways",
+        "need-youth-after-school"
+      ],
+      "tags": [
+        "workforce",
+        "youth",
+        "buyer"
+      ]
+    },
+    {
+      "id": "insight-health-navigation",
+      "title": "Healthcare access is a relationship problem, not only a facility problem",
+      "summary": "The graph shows major medical assets, but the valuable layer is the trusted routing between clinics, behavioral health, churches, schools, and families.",
+      "recommendation": "Frame the health demo around governed social-need routing, not a generic provider directory.",
+      "buyerSignal": "Hospitals and care coalitions can justify spend if the graph improves referral completion, navigation, or community benefit reporting.",
+      "confidence": 0.79,
+      "focusNodeIds": [
+        "place-southeast-health",
+        "place-flowers-hospital",
+        "place-laurel-oaks",
+        "place-the-haven",
+        "org-wiregrass-health-link",
+        "org-clinical-social-needs-team",
+        "need-health-navigation",
+        "need-rural-referrals"
+      ],
+      "tags": [
+        "healthcare",
+        "referrals",
+        "trust"
+      ]
+    },
+    {
+      "id": "insight-downtown-trust",
+      "title": "Downtown vitality can be sold as coordination leverage",
+      "summary": "Downtown has civic, faith, library, and merchant nodes close together. The missing product is a live view of which event, support, or referral action helps the corridor.",
+      "recommendation": "Show one story where a library event, merchant need, and trusted community node become one coordinated intervention.",
+      "buyerSignal": "Main street groups, chambers, city economic development teams, and local funders can understand this quickly.",
+      "confidence": 0.74,
+      "focusNodeIds": [
+        "place-dothan-library-main",
+        "place-captain-hooks",
+        "place-central-baptist",
+        "place-temple-emanuel",
+        "org-main-street-dothan-lab",
+        "org-downtown-merchant-circle",
+        "need-small-business",
+        "need-digital-access"
+      ],
+      "tags": [
+        "downtown",
+        "small business",
+        "coordination"
+      ]
+    },
+    {
+      "id": "insight-integrity-layer",
+      "title": "The integrity layer is the business-model filter",
+      "summary": "The graph becomes monetizable when buyers see that AVRAI can hold live city data without becoming surveillance or extractive adtech.",
+      "recommendation": "Use data lineage, confidence, synthetic users, and permission boundaries as visible product features in the demo.",
+      "buyerSignal": "Values-aligned buyers need evidence and shared context, but they also need defensible boundaries around community data.",
+      "confidence": 0.88,
+      "focusNodeIds": [
+        "org-dothan-civic-data-trust",
+        "org-wiregrass-funders-table",
+        "need-trusted-data",
+        "need-grant-coordination",
+        "signal-data-integrity-buyer"
+      ],
+      "tags": [
+        "governance",
+        "business model",
+        "integrity"
+      ]
+    },
+    {
+      "id": "insight-westgate-family-access",
+      "title": "Westgate is an easy visual story for access friction",
+      "summary": "Schools, the library branch, grocery, retail, and hospital-side assets cluster together, but the graph can expose timing and transport gaps.",
+      "recommendation": "Use Westgate as the guided story for showing how AVRAI sees coordination gaps that a map alone misses.",
+      "buyerSignal": "A local funder or family-services coalition can sponsor a narrow pilot around program matching and access friction.",
+      "confidence": 0.76,
+      "focusNodeIds": [
+        "place-westgate-library",
+        "place-girard-primary",
+        "place-girard-intermediate",
+        "place-fairview-park",
+        "place-flowers-hospital",
+        "place-publix-west",
+        "org-westgate-family-roundtable",
+        "need-evening-transport",
+        "need-childcare-family"
+      ],
+      "tags": [
+        "westside",
+        "families",
+        "access"
+      ]
+    },
+    {
+      "id": "insight-wiregrass-regional",
+      "title": "Dothan works best as a regional hub story",
+      "summary": "The strongest place graph is Dothan plus the Wiregrass catchment, because hospitals, colleges, libraries, and referral actors serve beyond city limits.",
+      "recommendation": "Call the prototype Dothan / Wiregrass rather than only Dothan city limits.",
+      "buyerSignal": "Regional institutions can buy a system that makes their real catchment legible.",
+      "confidence": 0.72,
+      "focusNodeIds": [
+        "area-dothan-metro",
+        "area-wiregrass-edge",
+        "place-wallace-campus",
+        "place-midland-library",
+        "place-midland-police",
+        "org-wiregrass-rural-referral-hub",
+        "need-rural-referrals"
+      ],
+      "tags": [
+        "wiregrass",
+        "regional",
+        "hub"
+      ]
+    }
+  ],
+  "storySteps": [
+    {
+      "id": "story-human-scale-hub",
+      "title": "Dothan is the right scale",
+      "body": "The prototype treats Dothan as a human-scale regional hub: compact enough to see the whole system, complex enough to reveal civic, health, school, business, and rural-edge relationships.",
+      "question": "Who needs a shared view of this place badly enough to pay for it?",
+      "focusNodeIds": [
+        "area-dothan-city",
+        "area-dothan-metro",
+        "area-wiregrass-edge"
+      ],
+      "insightId": "insight-wiregrass-regional"
+    },
+    {
+      "id": "story-assets",
+      "title": "Assets are already present",
+      "body": "The map is not saying Dothan lacks assets. It shows schools, libraries, hospitals, colleges, parks, faith anchors, and business nodes already exist inside a dense relationship layer.",
+      "question": "Which relationships are missing, stale, or invisible?",
+      "focusNodeIds": [
+        "place-dothan-high",
+        "place-dothan-library-main",
+        "place-southeast-health",
+        "place-flowers-hospital",
+        "place-fairview-park",
+        "place-central-baptist"
+      ],
+      "insightId": "insight-youth-workforce-wedge"
+    },
+    {
+      "id": "story-youth-workforce",
+      "title": "Youth opportunity is the wedge",
+      "body": "A workforce story connects high school, technical education, community college, medical education, employers, mentors, transportation, and after-school timing.",
+      "question": "Where would one new relationship unlock the most next action?",
+      "focusNodeIds": [
+        "place-dothan-high",
+        "place-dothan-tech",
+        "place-wallace-campus",
+        "place-acom",
+        "org-wiregrass-youth-pathways",
+        "need-career-pathways"
+      ],
+      "insightId": "insight-youth-workforce-wedge"
+    },
+    {
+      "id": "story-health-routing",
+      "title": "Health is routing plus trust",
+      "body": "The health story becomes compelling when AVRAI shows not only providers, but the trusted handoffs among care teams, schools, churches, rural referrals, and family support organizations.",
+      "question": "Which buyer would pay to reduce failed handoffs?",
+      "focusNodeIds": [
+        "place-southeast-health",
+        "place-flowers-hospital",
+        "place-laurel-oaks",
+        "org-wiregrass-health-link",
+        "need-health-navigation"
+      ],
+      "insightId": "insight-health-navigation"
+    },
+    {
+      "id": "story-westgate-friction",
+      "title": "Westgate shows map-plus-graph value",
+      "body": "On a map, Westgate looks asset-rich. In the graph, the question shifts to program hours, rides, trust, and whether the right actors know they are near the same problem.",
+      "question": "What does the graph reveal that a normal dashboard would miss?",
+      "focusNodeIds": [
+        "place-westgate-library",
+        "place-girard-primary",
+        "place-girard-intermediate",
+        "place-fairview-park",
+        "org-westgate-family-roundtable",
+        "need-evening-transport"
+      ],
+      "insightId": "insight-westgate-family-access"
+    },
+    {
+      "id": "story-business-model",
+      "title": "Integrity filters the business model",
+      "body": "The prototype makes lineage, confidence, and synthetic personas visible so the whiteboard can focus on values-aligned buyers instead of extractive data monetization.",
+      "question": "Who values trusted shared context enough to fund the live layer?",
+      "focusNodeIds": [
+        "org-dothan-civic-data-trust",
+        "org-wiregrass-funders-table",
+        "need-trusted-data",
+        "need-grant-coordination",
+        "signal-data-integrity-buyer"
+      ],
+      "insightId": "insight-integrity-layer"
+    }
+  ]
+}
